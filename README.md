@@ -36,7 +36,7 @@
   </main>
 
   <footer>
-    <p>Data from is updated every day!</p> </footer>
+    <p>Data is updated every day!</p> </footer>
 </body>
 </html>
 <!DOCTYPE html>
@@ -51,4 +51,6 @@
 
   <p>This is the content of your main page.</p>
 </body>
+<body style="background-color: lightgreen;">
+  </body>
 </html>
