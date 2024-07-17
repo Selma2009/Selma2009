@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Pro Mens Tennis Rankings</title>
+  Pro Mens Tennis Rankings
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -16,26 +16,39 @@
     <table>
       <caption></caption>  <thead>
         <tr>
-          <th>Rank</th>
-          <th>Player Name</th>
-          <th>Country</th>
+          <th>Rank in the World</th>
+          <th>Name</th>
+          <th>Nationality</th>
           <th>Age</th>
-          <th>Points</th>
+          <th>Total Points</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>1</td>
-          <td>[Player 1 Name]</td>
-          <td>[Country]</td>
-          <td>[Age]</td>
-          <td>[Points]</td>
+          <td>#2</td>
+          <td>[Jannik Sinner]</td>
+          <td>[ITA]</td>
+          <td>[]</td>
+          <td>[]</td>
         </tr>
         </tbody>
     </table>
   </main>
 
   <footer>
-    <p>Data from [Source of your data]</p> </footer>
+    <p>Data from is updated every day!</p> </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+  <a href="other-page.html">
+    <button>Womens Ranking</button>
+  </a>
+
+  <p>This is the content of your main page.</p>
 </body>
 </html>
