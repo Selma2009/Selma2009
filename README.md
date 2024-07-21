@@ -342,8 +342,7 @@ Whether you're a seasoned tennis fan or just starting to follow the sport, this 
           <td>[RUS]</td>
           <td>[25]</td>
           <td>[2550]</td>
-        </tr>
-      
+        </tr
         </tbody>    <tbody>
         <tr>
           <td>#18</td>
@@ -370,6 +369,9 @@ Whether you're a seasoned tennis fan or just starting to follow the sport, this 
         </tr>
         </tbody>
     </table>
+
+    <img src="[https://www.example.com/image.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/US_Open_2022_Photo_177_%2852391301928%29_%28Gauff%29.jpg/1200px-US_Open_2022_Photo_177_%2852391301928%29_%28Gauff%29.jpg)" alt="Coco Gauff">
+    
   </main>
   <main>
 </body>
