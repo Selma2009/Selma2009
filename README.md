@@ -369,7 +369,15 @@ Whether you're a seasoned tennis fan or just starting to follow the sport, this 
         </tr>
         </tbody>
     </table>
+    <body>
+  <p>Here are some images of famous players listed up there:</p>
+</body>
     <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/US_Open_2022_Photo_177_%2852391301928%29_%28Gauff%29.jpg/1200px-US_Open_2022_Photo_177_%2852391301928%29_%28Gauff%29.jpg]" alt="Coco Gauff">
+    <output> Coco Gauff is looking ready to rock the court! She's got that winning smile and a look that says she's going to crush it. Let's go Coco! </output>
+    <img src="(https://upload.wikimedia.org/wikipedia/commons/f/f6/Sinner_MCM23_%288%29_%2852883593853%29.jpg)]" alt="Jannik Sinner">
+    <output> Jannik Sinner is on top of the world with his ranking being first! I wonder who he'll beat next..</output>
+<img src="(https://upload.wikimedia.org/wikipedia/commons/f/f6/Sinner_MCM23_%288%29_%2852883593853%29.jpg)]](https://upload.wikimedia.org/wikipedia/commons/9/98/Iga_Swiatek_2023_Cropped_%2B_Retouched.jpg)" alt="Iga Swaitek">
+    <output>Iga Swiatek is also an amazing tennis player and first in Womens!</output>
   </main>
   <main>
 </body>
