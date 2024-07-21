@@ -157,32 +157,32 @@
           <td>#17</td>
           <td>[Holger Rune]</td>
           <td>[DEN]</td>
-          <td>[]</td>
-          <td>[]</td>
+          <td>[21]</td>
+          <td>[2,210]</td>
         </tr>
         </tbody>    <tbody>
         <tr>
           <td>#18</td>
           <td>[Felix Auger Aliassime]</td>
           <td>[CAN]</td>
-          <td>[]</td>
-          <td>[]</td>
+          <td>[23]</td>
+          <td>[2,075]</td>
         </tr>
         </tbody>    <tbody>
         <tr>
           <td>#19</td>
           <td>[Sebastian Baez]</td>
           <td>[ARG]</td>
-          <td>[]</td>
-          <td>[]</td>
+          <td>[23]</td>
+          <td>[2,020]</td>
         </tr>
         </tbody>    <tbody>
         <tr>
           <td>#20</td>
           <td>[	Alejandro Tabilo]</td>
           <td>[CHI]</td>
-          <td>[]</td>
-          <td>[]</td>
+          <td>[27]</td>
+          <td>[1,918]</td>
         </tr>
         </tbody>
     </table>
