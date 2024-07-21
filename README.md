@@ -196,14 +196,9 @@ Whether you're a seasoned tennis fan or just starting to follow the sport, this 
 </html>
 <!DOCTYPE html>
 <html>
-</head>
-<body>
-  <h1>Women's Rankings</h1>
-  <p>See who's on top for Womens too!</p>
-  <a href="rankings.html">
-    <button>View Women's Rankings</button>
-  </a>
-</html>
+<a href="womens_rankings.html">
+  <button>View Women's Rankings</button>
+</a>
   <main>
 </body>
 <body style="background-color: lightgreen;">
