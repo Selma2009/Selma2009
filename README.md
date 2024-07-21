@@ -161,8 +161,7 @@ Whether you're a seasoned tennis fan or just starting to follow the sport, this 
           <td>[21]</td>
           <td>[2,210]</td>
         </tr>
-          <img src="[[yourimage.jpg](https://images.immediate.co.uk/production/volatile/sites/3/2023/05/Best-tennis-players-all-time-male-5b3e3b7.jpg)]" alt="Djokovic & Federer" style="width: 200px; height: 150px;">
-        </tbody>    <tbody>
+    </tbody>    <tbody>
         <tr>
           <td>#18</td>
           <td>[Felix Auger Aliassime]</td>
@@ -195,12 +194,183 @@ Whether you're a seasoned tennis fan or just starting to follow the sport, this 
 </body>
 </html>
 <!DOCTYPE html>
-<html>
-<a href="womens_rankings.html">
-  <button>View Women's Rankings</button>
-</a>
+</a>  <h2>Top 20 Womens Tennis Players
+  (Women are important too!)</h2>
+    <table>
+      <caption></caption>  <thead>
+        <tr>
+          <th>Rank in the World</th>
+          <th>Name</th>
+          <th>Nationality</th>
+          <th>Age</th>
+          <th>Total Points</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>#1</td>
+          <td>[Iga Swiatek]</td>
+          <td>[POL]</td>
+          <td>[23]</td>
+          <td>[11,285]</td>
+        </tr>
+        </tbody>
+          <tbody>
+        <tr>
+          <td>#2</td>
+          <td>[Coco Guaff]</td>
+          <td>[USA]</td>
+          <td>[20]</td>
+          <td>[8173]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#3</td>
+          <td>[Aryna Sabalenka]</td>
+          <td>[BEL]</td>
+          <td>[26]</td>
+          <td>[7061]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#4</td>
+          <td>[Elena Rybakina]</td>
+          <td>[Kaz]</td>
+          <td>[25]</td>
+          <td>[6376]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#5</td>
+          <td>[Jasmine Paolini]</td>
+          <td>[ITA]</td>
+          <td>[28]</td>
+          <td>[5518]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#6</td>
+          <td>[Jessica Pegula]</td>
+          <td>[USA]</td>
+          <td>[30]</td>
+          <td>[4665]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#7</td>
+          <td>[Qinwen Zheng]</td>
+          <td>[CHN]</td>
+          <td>[21]</td>
+          <td>[4055]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#8</td>
+          <td>[Maria Sakkari]</td>
+          <td>[GRE]</td>
+          <td>[28]</td>
+          <td>[3925]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#9</td>
+          <td>[Danielle Collins]</td>
+          <td>[USA]</td>
+          <td>[30]</td>
+          <td>[3702]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#10</td>
+          <td>[Barbora Krejcikova]</td>
+          <td>[CZE]</td>
+          <td>[28]</td>
+          <td>[3573]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#11</td>
+          <td>[Jelena Ostapenko]</td>
+          <td>[LAT]</td>
+          <td>[27]</td>
+          <td>[3418]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#12</td>
+          <td>[Daria Kasatikina]</td>
+          <td>[RUS]</td>
+          <td>[27]</td>
+          <td>[3283]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#13</td>
+          <td>[Liudmila Samsonova]</td>
+          <td>[RUS]</td>
+          <td>[25]</td>
+          <td>[2950]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#14</td>
+          <td>[Madison Keys]</td>
+          <td>[USA]</td>
+          <td>[29]</td>
+          <td>[2878]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#15</td>
+          <td>[Emma Navarro]</td>
+          <td>[USA]</td>
+          <td>[23]</td>
+          <td>[2729]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#16</td>
+          <td>[Ons Jabeur]</td>
+          <td>[TUN]</td>
+          <td>[29]</td>
+          <td>[2631]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#17</td>
+          <td>[Anna Kalinskaya]</td>
+          <td>[RUS]</td>
+          <td>[25]</td>
+          <td>[2550]</td>
+        </tr>
+      
+        </tbody>    <tbody>
+        <tr>
+          <td>#18</td>
+          <td>[Marketa Vondrousova]</td>
+          <td>[CZE]</td>
+          <td>[25]</td>
+          <td>[2473]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#19</td>
+          <td>[Marta Kostyuk]</td>
+          <td>[UKR]</td>
+          <td>[22]</td>
+          <td>[2240]</td>
+        </tr>
+        </tbody>    <tbody>
+        <tr>
+          <td>#20</td>
+          <td>[Victoria Azarenka]</td>
+          <td>[RUS]</td>
+          <td>[34]</td>
+          <td>[2159]</td>
+        </tr>
+        </tbody>
+    </table>
+  </main>
   <main>
 </body>
-<body style="background-color: lightgreen;">
-  </body>
 </html>
